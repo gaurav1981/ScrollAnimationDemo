@@ -3,4 +3,4 @@ SKAnimateScroll
 
 
 
-SKAnimateScroll class enable you to scroll infitnitly with images
+SKAnimateScroll class enable you to scroll infinitly with images
